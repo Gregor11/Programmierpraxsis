@@ -1,0 +1,11 @@
+import java.util.scanner;
+public classwordprocessor{
+public static void main(String[] args)
+	{
+	Scanner sc=new Scanner (system.in);
+
+	while(sc.hasNextLine())))
+		{
+		string input=sc.nextline();
+		System.out.print(input+""+input.length()));
+}}}
